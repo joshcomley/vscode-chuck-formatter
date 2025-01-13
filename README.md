@@ -1,0 +1,1 @@
+Simple formatter for ChucK. Install in VS Code and when in a `.ck` file, press `Ctrl+Shift+P` and select `Format Document`, or use whatever keyboard shortcut you have configured for formatting documents.
